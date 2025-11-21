@@ -1,1 +1,1 @@
-
+R script to clean and recode the data with consideration the normality status and using the appropriate statistical test, showing there is an association between the type of extract and susceptibility of the pathogens.
