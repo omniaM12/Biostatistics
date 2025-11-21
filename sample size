@@ -1,0 +1,3 @@
+library(pwr)
+paov1<-pwr.anova.test(k=3, f=0.3,sig.level = 0.05, power = 0.80)
+plot(paov1)
