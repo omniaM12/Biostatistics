@@ -1,1 +1,1 @@
-This rebo shows samples of biostatistical projects includes sample size, inferential statistics (kruscal, gee analysis,..) using R software. 
+This rebo composed of branches that show samples of biostatistical projects includes sample size, inferential statistics (kruscal, gee analysis,..) using R software. 
